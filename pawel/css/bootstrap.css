@@ -1,12 +1,6 @@
-/*!
- * Bootstrap v3.3.1 (http://getbootstrap.com)
- * Copyright 2011-2014 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
 html {
-  font-family: sans-serif;
+  font-family:  'Baloo Tamma 2', cursive;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
